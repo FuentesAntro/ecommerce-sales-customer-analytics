@@ -171,6 +171,6 @@ Chen, D. (2019). *Online Retail II Dataset.* UCI Machine Learning Repository. ht
 Data Analyst · Anthropology + Applied Data Science
 MSc Applied Data Science for Social Sciences — Universidad de Salamanca (2026–2027)
 BA Social and Cultural Anthropology — Universidad de Sevilla
-📍 Seville, Spain · [LinkedIn](#) · [GitHub](https://github.com/FuentesAntro)
+📍 Seville, Spain · [[LinkedIn](https://www.linkedin.com/in/antonio-fuentes-moreno-9a08341a5/)](#) · [GitHub](https://github.com/FuentesAntro)
 
 **License:** MIT
