@@ -103,7 +103,7 @@ ecommerce-sales-customer-analytics/
 ├── r/
 │   └── 04_statistical_validation.R
 ├── powerbi/
-│   └── RFM_Dashboard_Antonio.pbix
+│   └── Executive_Dashboard_Antonio.pbix
 ├── report/
 ├── screenshots/
 ├── figures/
