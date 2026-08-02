@@ -101,7 +101,8 @@ ecommerce-sales-customer-analytics/
 │   ├── 02_rfm_segmentation.ipynb
 │   └── 03_cohort_analysis.ipynb
 ├── r/
-│   └── 04_statistical_validation.R
+│   ├── 04_statistical_validation.R
+│   └──05_retention_vs_churn_decay.R
 ├── powerbi/
 │   └── Executive_Dashboard_Antonio.pbix
 ├── report/
