@@ -105,8 +105,7 @@ ecommerce-sales-customer-analytics/
 ├── powerbi/
 │   └── RFM_Dashboard_Antonio.pbix
 ├── report/
-│   ├── executive_summary.pdf
-│   └── screenshots/
+├── screenshots/
 ├── figures/
 ├── docs/
 │   └── technical_documentation.md
